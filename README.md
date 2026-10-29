@@ -1,4 +1,4 @@
-# Projeto PRACDR
+# Projeto SUS - PRACDR
 
 # Sobre o projeto
 Hoje resolvi mostrar meu projeto mais recente. Feito em Julho de 2026, eu desenvolvi o protótipo chamado PRACDR, um sistema desenvolvido para o SUS. A ideia para esse projeto surgiu de uma forma interessante, a Supervisão do SUS da Região Sul de São Paulo, solicitou para mim um auxilio com uma ideia de melhoria que eles tinham para o sistema do SUS, eles queriam reunir todas as pessoas com Doenças Raras em um único sistema. 
